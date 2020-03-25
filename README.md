@@ -6,5 +6,5 @@ circuitbreak
 fallback
 bulkhead
 transaction
-apigateway --- Zull
+apigateway --- Zuul
 oauth2 --- autenticação e autorização
